@@ -32,6 +32,7 @@
    
 ### Q&A
 Q: How often does the gist update? Can I set it manually? And can I set the forked repo to be private?
+
 A: The gist is set to update once a day, which is the rate which the Wakatime API updates for this endpoint. You won't gain anything by increasing the rate of the scheduled task.
 
 The forked repo can be private, but keep in mind that you'll be consuming your account's allotted GitHub Actions minutes for private repos: https://github.com/pricing
